@@ -1,3 +1,3 @@
-# Git and Github Course
+# Lab 8 SONYA
 
-Crash course for Git
+Lab 8 for PISM
